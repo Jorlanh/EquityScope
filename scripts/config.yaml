@@ -1,0 +1,25 @@
+{
+  "project": {
+    "name": "Global Financial Inequality Explorer",
+    "period_start": 2002,
+    "period_end": 2026,
+    "international_period_end": 2025,
+    "brazil_pnad_period_start": 2012,
+    "brazil_pnad_period_end": 2026
+  },
+  "sources": {
+    "source_zip": "data/raw/dados para bigdata.zip",
+    "wid_country_codes": ["BR"],
+    "findex_years": [2011, 2014, 2017, 2021, 2024]
+  },
+  "paths": {
+    "metadata": "data/metadata",
+    "interim": "data/interim",
+    "processed": "data/processed",
+    "tables": "outputs/tables",
+    "figures": "outputs/figures",
+    "reports": "outputs/reports",
+    "statistical_tests": "outputs/statistical_tests",
+    "logs": "logs"
+  }
+}
