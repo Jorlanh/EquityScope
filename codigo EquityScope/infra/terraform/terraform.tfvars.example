@@ -1,0 +1,11 @@
+# O token da Aiven fica fora deste arquivo e deve ser informado por:
+# $env:TF_VAR_aiven_api_token = "seu-token-local"
+
+aiven_project        = "nome-do-projeto-na-aiven"
+aiven_plan           = "free-1-1gb"
+service_name         = "equityscope-postgresql"
+database_name        = "analyticsdb"
+enable_public_access = true
+
+# No plano Free, deixar a variável nula.
+# aiven_cloud_name = "google-europe-west1"

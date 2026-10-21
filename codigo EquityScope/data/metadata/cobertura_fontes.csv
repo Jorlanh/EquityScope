@@ -1,0 +1,8 @@
+﻿fonte,periodo_observado,arquivo_principal,observacoes
+WID,consultar variáveis e metadados por país,wid_all_data.zip,Arquivo aninhado grande; filtrar variáveis antes de carregar.
+WIID,consultar coluna year,WIID-08SEP2026.xlsx,"Manter wiidglobal_6.xlsx como versão de comparação, sem concatenar."
+ILOSTAT,1980–2025 (1530 linhas),EAR_EMTA_SEX_CUR_NB_A-20261013T2257.csv,Remuneração por sexo; cobertura anual irregular.
+ILOSTAT_MODELADO,2026–2026 (87 linhas),LAP_2FTM_NOC_RT_A-20261013T2256.csv,Somente 2026 no pacote.
+PNAD_CONTINUA,2012-T1; 2012-T2; 2012-T3; 2012-T4; 2014-T1; 2014-T2; 2014-T3; 2014-T4; 2016-T1; 2016-T2; 2016-T3; 2016-T4; 2018-T1; 2018-T2; 2018-T3; 2018-T4; 2019-T1; 2019-T2; 2019-T3; 2019-T4; 2021-T1; 2021-T2; 2021-T3; 2021-T4; 2023-T1; 2023-T2; 2023-T3; 2023-T4; 2025-T1; 2025-T2; 2025-T3; 2025-T4; 2026-T1; 2026-T2,arquivos PNADC trimestrais,2026-T1 e 2026-T2 estão incluídos; não são semestres completos.
+GLOBAL_FINDEX,ondas de pesquisa; consultar coluna Year,GlobalFindexDatabase2025.xlsx,A edição contém referência de 2024; não é painel anual.
+VDEM,país-ano; filtrar 2002–2026,V-Dem-CY-Full+Others-v16.csv,Preservar codebook e notas.
